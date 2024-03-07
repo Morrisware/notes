@@ -1,7 +1,8 @@
 ---
-tags: 
-    - website
-    - mock
+tags:
+  - website
+  - mock
+  - data
 ---
 
 https://picsum.photos/
